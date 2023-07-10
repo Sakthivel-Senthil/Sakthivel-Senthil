@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakthivel</h1>
+<div align="center"> <img src=""> </div>
 <h3 align="center">Dedicated Full Stack Developer proficient in .NET, seeking entry-level opportunity</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif">
 
