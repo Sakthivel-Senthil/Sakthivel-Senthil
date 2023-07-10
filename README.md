@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakthivel</h1>
-<div align="center"> <img src=""> </div>
+<div align="center"> <img src="https://github.com/Sakthivel-Senthil/Sakthivel-Senthil/assets/139112595/2508304d-8148-4f17-aa0b-475448a7a515"> </div>
 <h3 align="center">Dedicated Full Stack Developer proficient in .NET, seeking entry-level opportunity</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif">
 
